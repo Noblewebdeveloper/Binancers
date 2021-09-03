@@ -1,0 +1,9 @@
+.ct{
+    padding: 5% 0;
+    width: 80vw;
+}
+@media(min-width: 400px){
+    .ct{
+        text-align: center;
+    }
+}

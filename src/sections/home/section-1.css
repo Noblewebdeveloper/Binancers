@@ -1,0 +1,20 @@
+.section-1{
+    background-color: #cedad8;
+}
+
+
+@media(min-width: 992px){
+    .section-1{
+        height: 75vh;
+    }
+}
+
+
+
+.line{
+    display: inline-block;
+    width: 5rem;
+    height: .3rem;
+    background: #0fb;
+    border-radius: 5px;
+}

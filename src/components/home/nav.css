@@ -1,0 +1,11 @@
+.nav{
+    display: block;
+    background-color: #cedad8;
+    padding: 0 10%;
+    height: 80px;
+    width: 100vw;
+    position: fixed;
+    z-index: 1;
+}
+
+

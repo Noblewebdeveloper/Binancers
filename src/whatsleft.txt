@@ -1,0 +1,5 @@
+navbar in mobile view is not good
+
+signup/login
+wallet
+rate

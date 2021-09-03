@@ -1,0 +1,13 @@
+.lifevalue{
+    display: inline-block;
+    margin: 0 10px;
+}
+.bold{
+    font-weight: bold;
+}
+
+@media(max-width: 991px){
+    .lifewrapper{
+        text-align: center;
+    }
+}

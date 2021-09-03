@@ -1,0 +1,51 @@
+.wrap{
+    padding: 2% 5%;
+}
+@media(min-width: 991px){
+    .row.v{
+        text-align: center;
+    }
+}
+
+
+/* section - 4 css */
+.ek{
+    padding: 3%;
+    text-align: center;
+    background-color: #ecf3f2;;
+}
+.l{
+    margin: 3%;
+    font-size: 3.3rem;
+}
+.reg{
+    background-color: #0fc;
+}
+.trad{
+    background-color: #cedad8;
+}
+.s{
+    margin: 0 3%;
+    width: 20vw;
+    font-size: 1.5rem;
+}
+.more{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+.more:hover{
+    cursor: pointer;
+    color: black;
+    font-size: x-large;
+    padding: 20px;
+}
+@media(max-width: 770px){
+    .l{
+        font-size: 2rem;
+    }
+    .s{
+        font-size: 1rem;
+        width:auto;
+    }
+}
