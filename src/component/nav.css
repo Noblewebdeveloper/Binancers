@@ -1,0 +1,18 @@
+.nav{
+    display: block;
+    /* background-color: #cedad8; */
+    width: 100vw;
+    position: fixed;
+    z-index: 1;
+    
+}
+.navbar{
+    background-color: black;
+    padding: 1% 10% ;
+}
+@media(min-width: 992px){
+    .nav-options{
+        display: inline-block
+    }
+}
+
